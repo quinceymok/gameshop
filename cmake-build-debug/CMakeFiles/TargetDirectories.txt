@@ -1,0 +1,3 @@
+C:/Users/xquin/Documents/HPP/gameshop/cmake-build-debug/CMakeFiles/gameshop.dir
+C:/Users/xquin/Documents/HPP/gameshop/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/xquin/Documents/HPP/gameshop/cmake-build-debug/CMakeFiles/rebuild_cache.dir
